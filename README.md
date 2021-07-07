@@ -1,8 +1,7 @@
 # README #
 
-![yes](https://imgur.com/XTSl70O.jpg)
 
-This is the repository used for the SWitCH 2020 project
+This is the repository used for the SWitCH 2020 project, Group 3
 
 ## What is this repository for? ##
 
